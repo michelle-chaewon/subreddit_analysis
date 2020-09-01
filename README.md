@@ -1,1 +1,2 @@
-# subreddit_analysis
+# Subreddit-analysis-on-trauma
+Based on a large-scale text data collected from Subreddits (r/traumatoolbox, r/ptsd, etc.), this study reveals the potential factors that are correlated with the retrieval of truamatic memories. Ideally, this research will shed light on important elements that need to be carefully examined during my following study on content development of VR Exposure Therapy for PTSD. More details will be updated soon. 
