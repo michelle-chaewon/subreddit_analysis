@@ -47,7 +47,7 @@ reddit = praw.Reddit(client_id=client_id,
 # In[19]:
 
 
-subreddit_list = ["ptsd", "traumatoolbox", "traumaticchildhood", "PTSDCombat", "PTSDParents", "ptsdrecovery"]
+subreddit_list = ['traumatoolbox', 'ptsd', 'PTSDcombat', 'CPTSD', 'CPTSDFightMode', 'CPTSDNextSteps']
 
 for name in subreddit_list:
     os.mkdir(os.path.join(r'C:\Users\Michelle\Desktop\reddit data', name))
